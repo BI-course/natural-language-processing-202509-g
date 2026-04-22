@@ -4,17 +4,17 @@
 
 ## Student Details
 
-**Name of the team on GitHub Classroom:**
+**Name of the team on GitHub Classroom: 202509-g**
 
 **Team Member Contributions:**
 
 **Member 1**
 
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Comment** |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------|
+| **Student ID: 148705**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
+| **Name: Dedan Kimani**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |             |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it? For this lab, I individually worked on the full development and deployment of the NLP application. This included preprocessing the dataset, training the LDA topic model, implementing sentiment analysis using VADER, and building the Streamlit interface for user interaction. I also handled debugging issues related to dependencies, model loading, and deployment on Streamlit Cloud.Through this process, I learned how to integrate multiple NLP components into a working application, including text preprocessing, topic modeling, and sentiment analysis. I also gained practical experience in deploying machine learning models, troubleshooting environment-related errors, and ensuring compatibility between local and cloud environments.** |             |
 
 **Member 2**
 
@@ -92,10 +92,10 @@ Provide a brief interpretation of the results and a recommendation for the clien
 Submit the link to a short video (not more than 4 minutes) demonstrating the topic modelling and the sentiment analysis.
 Also include (in the same video) the user interface hosted on hugging face or streamlit.
 
-| **Key**                             | **Value** |
-|:------------------------------------|:----------|
-| **Link to the video:**              |           |
-| **Link to the hosted application:** |           |
+| **Key**                              | **Value** |
+|:-------------------------------------|:----------|
+| **Link to the video:https://drive.google.com/file/d/1mFlhS-q0oaVojd8jiuUP-8anhrNawAQK/view?usp=sharing**               |           |
+| **Link to the hosted application: https://natural-language-processing-202509-g-bkcxaaseclsua6jajcqbah.streamlit.app/** |           |
 
 ## Grading Approach
 
